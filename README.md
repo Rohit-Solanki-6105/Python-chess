@@ -23,6 +23,9 @@ python main.py
 
 <br>
 <img src="screenshots/start.png"> 
+  
+![image 1](./screenshots/start.png "Image 1")
+  
 </fieldset>
 <hr>
 <fieldset>
