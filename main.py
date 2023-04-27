@@ -9,7 +9,7 @@ def win(winner):
 	# Hide the main window
 	root.withdraw()
 	# Display the message box
-	messagebox.showinfo("Winner",winner,)
+	messagebox.showinfo("Winner",winner)
 	# Destroy the Tkinter window
 	root.destroy()
 
