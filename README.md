@@ -46,5 +46,5 @@ python main.py
 </div>
 <span style="padding: 30px">
 
->If you update this game or make any chenges that makes this game better then let me know at <span style="color: lightblue;">solanki.rohit6105@gmail.com</span>
+>If you update this game or make any changes that makes this game better then let me know at <span style="color: lightblue;">solanki.rohit6105@gmail.com</span>
 </span>
